@@ -1,0 +1,14 @@
+﻿<Properties StartupConfiguration="{A3A730E0-4BEC-4D9A-90E1-E53D43DA1B55}|Unit Tests">
+  <MonoDevelop.Ide.Workbench ActiveDocument="AssociatedWholesaleGrocers/AppInitializer.cs">
+    <Files>
+      <File FileName="AssociatedWholesaleGrocers/Tests.cs" Line="31" Column="15" />
+      <File FileName="AssociatedWholesaleGrocers/AppInitializer.cs" Line="1" Column="1" />
+    </Files>
+  </MonoDevelop.Ide.Workbench>
+  <MonoDevelop.Ide.Workspace ActiveConfiguration="Debug" />
+  <MonoDevelop.Ide.DebuggingService.Breakpoints>
+    <BreakpointStore />
+  </MonoDevelop.Ide.DebuggingService.Breakpoints>
+  <MonoDevelop.Ide.DebuggingService.PinnedWatches />
+  <MonoDevelop.Ide.ItemProperties.AssociatedWholesaleGrocers PreferredExecutionTarget="MonoDevelop.Default" />
+</Properties>
